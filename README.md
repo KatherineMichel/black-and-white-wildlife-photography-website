@@ -1,3 +1,4 @@
-black-and-white-wildlife-photography-website
-============================================
+# Black and White Wildlife Photography Website
+
+A Bootstrap prototype
 
