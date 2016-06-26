@@ -1,4 +1,4 @@
-black-and-white-wildlife-photography-website
-============================================
-See gh-pages branch for files <br>
+# Black and White Wildlife Photography Website
+
+A Bootstrap prototype; See gh-pages branch for files
 
